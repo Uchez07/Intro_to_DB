@@ -2,7 +2,7 @@ CREATE DATABASE IF NOT EXISTS alx_book_store
 
 CREATE TABLE Authors (
     author_id INT PRIMARY KEY AUTO_INCREMENT,
-    aurthor_name VARCHAR(100) NOT NULL
+    author_name VARCHAR(100) NOT NULL
 );
 
 -- 4. Create the Books table
